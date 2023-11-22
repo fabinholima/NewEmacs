@@ -1,0 +1,2 @@
+# NewEmacs
+Nova config Emacs
